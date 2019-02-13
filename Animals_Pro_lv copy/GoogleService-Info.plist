@@ -22,16 +22,14 @@
 	<string>kids-quizz-54546</string>
 	<key>STORAGE_BUCKET</key>
 	<string>kids-quizz-54546.appspot.com</string>
-	<key>IS_ADS_ENABLED</key>
-	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
-	<false></false>
+	<false/>
 	<key>IS_APPINVITE_ENABLED</key>
-	<false></false>
+	<false/>
 	<key>IS_GCM_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>IS_SIGNIN_ENABLED</key>
-	<true></true>
+	<true/>
 	<key>GOOGLE_APP_ID</key>
 	<string>1:705013537015:ios:3e29aac122599559</string>
 	<key>DATABASE_URL</key>

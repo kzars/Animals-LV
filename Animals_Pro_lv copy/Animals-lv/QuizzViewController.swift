@@ -292,7 +292,8 @@ class QuizzViewController: UIViewController, AVAudioPlayerDelegate, GADInterstit
                         
                     }
                 }
-                //Wait for certain amount of time and then flash all buttons
+                
+                //Wait for certain amount of time and then flash all buttons , test cmment
                 DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(2), execute: {
                     // Put your code which should be executed with a delay here
                     self.QuizzButton_1.flash()
